@@ -58,12 +58,6 @@ SSH keys may need to be configured for GitHub access. If SSH fails, the reposito
    - Or use HTTPS with a personal access token
    - Or check if there's an existing SSH key deployment key
 
-### Current SSH Public Key (if needed for GitHub):
-```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM2TTdQEa7xJmL1NCtLVHdmaSwVApBEvkwbp245KW8Lb john@robug.com
-```
-
-Note: There should be a GitHub SSH key named "claude" (fingerprint: SHA256:n0waQOzwmyznstIIbJefC8NQKMrXgc95hFXjWrDOsv0) that may need to be properly configured.
 
 ## GitHub Safety Rules (From Claude's Instructions)
 
